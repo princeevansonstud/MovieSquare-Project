@@ -1,0 +1,19 @@
+h1 {
+    color: rgba(0, 49, 2, 0.534);
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+}
+
+h3 {
+    color: rgba(0, 49, 2, 0.534);
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+}
+
+P {
+    color: darkslategrey;
+    font: bold;
+    font-family: fantasy;
+}
